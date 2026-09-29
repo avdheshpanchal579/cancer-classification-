@@ -69,7 +69,7 @@ Move into the project directory:
 cd YOUR-REPOSITORY
 ```
 
-There are no external dependencies to install. The `requirements.txt` file is included for project documentation.
+
 
 ## 6. Run the Project
 
