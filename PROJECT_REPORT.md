@@ -83,7 +83,21 @@ The following types of tests should be performed:
 | Different tumor sizes | Verify scoring rules |
 | Different symptom combinations | Verify final classification |
 
-### 10. Expected Output
+### 10. Screenshots / Results
+
+#### 10.1 Terminal Result
+
+The following screenshot shows a sample execution of the application with patient input and the resulting educational classification.
+
+![Terminal result](screenshots/terminal-result.png)
+
+#### 10.2 Project Files
+
+The following screenshot shows the project files in the development environment, including `statement.md` and `PROJECT_REPORT.md`.
+
+![Project files](screenshots/project-files.png)
+
+### 11. Expected Output
 
 The application displays:
 
@@ -93,17 +107,17 @@ The application displays:
 - Calculated score
 - Educational risk classification
 
-### 11. Limitations
+### 12. Limitations
 
 This is a basic rule-based educational program. It does not use a medical dataset, machine-learning model, laboratory results, medical history, imaging information, or clinically validated diagnostic criteria.
 
 Therefore, the classification cannot be used to diagnose cancer or determine an individual's actual medical risk.
 
-### 12. Conclusion
+### 13. Conclusion
 
 The project demonstrates how Python fundamentals can be combined to create a functional command-line application. It provides practical experience with functions, conditional logic, loops, validation, exception handling, and user interaction.
 
-### 13. Future Improvements
+### 14. Future Improvements
 
 Possible educational extensions include:
 - Storing records in a file or database.
